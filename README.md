@@ -31,9 +31,6 @@ Linux C 实现密码的密文输入，*输出，可删除
 
 
 
-
-
-
 void expression(char name[],char msg[])
 {
 	if(strcmp(msg,"/xl") == 0)
